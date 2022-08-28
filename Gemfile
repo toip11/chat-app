@@ -59,3 +59,8 @@ gem 'pry-rails'
 
 gem 'mini_magick'
 gem 'image_processing', '~> 1.2'
+
+gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+gem 'rspec-rails'
+gem 'factory_bot_rails'
+gem 'faker'
